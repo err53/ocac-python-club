@@ -42,6 +42,8 @@ Use `round(x)` to round a number
 
 Use `floor(x)` and `ceil(x)` after importing the math module with `from math import *`
 
+Use `int(x)` and `float(x)` to convert numbers between different types (integer and floating point)
+
 ### Input
 Use `input(prompt)` to get user input, and use `=` to assign the input to a variable
 
