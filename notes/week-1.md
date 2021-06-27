@@ -57,3 +57,4 @@ Use `input(prompt)` to get user input, and use `=` to assign the input to a vari
 1. Write a program to display the current date and time.
 1. Write a program to find the index of the first space in the text a user `input`s.
 
+In future homework assignments, use of `input` and `print` will be expected wherever possible
