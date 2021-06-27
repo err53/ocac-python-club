@@ -25,6 +25,8 @@ Use `.isupper()` or `.islower()` to check whether a function is uppercase or low
 
 Use `+` to concatenate strings together
 
+Use `string[x]` to get the `x`th character of the string
+
 ### Number Manipulation
 Addition, subtraction, multiplication, and division generally works how you would expect
 
