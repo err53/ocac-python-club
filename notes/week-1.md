@@ -46,14 +46,14 @@ Use `floor(x)` and `ceil(x)` after importing the math module with `from math imp
 Use `input(prompt)` to get user input, and use `=` to assign the input to a variable
 
 ## Homework
-1. Write a program which accepts the radius of a circle from the user and computes the area.
-1. Write a program that accepts an integer (n) and computes the value of n+nn+nnn
-1. Write a program that will accept the base and height of a triangle and compute the area.
+1. Write a program which accepts the `input` of the radius of a circle from the user and computes the area.
+1. Write a program that accepts an `input` of integer (n) and computes the value of n+nn+nnn
+1. Write a program that will accept the base and height of a triangle using `input` and compute the area.
 1. Write a program to display your details like name, age, and a fun fact about you in three different lines.
-1. Write a program that takes any text and makes it capitalized
+1. Write a program that takes any text `input` and makes it capitalized
 
    **BONUS (Might require Googling / looking at documentation)**
-1. Write a program to convert seconds to day, hour, minutes and seconds.
+1. Write a program to convert an `input` of seconds to day, hour, minutes and seconds.
 1. Write a program to display the current date and time.
-1. Write a program to find the index of the first space in the text a user inputs.
+1. Write a program to find the index of the first space in the text a user `input`s.
 
