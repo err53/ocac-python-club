@@ -3,6 +3,7 @@
 ## Summary
 ### Getting Started
 Use [Replit](https://replit.com/languages/python3) to write Python code without needing to download anything
+See [this Google Doc](https://docs.google.com/document/d/1vHqYfCMjOjAnTu_-amSsAHFiSZRqcVTB7SkRiAzni-A) for setup directions
 
 ### Printing to the console
 Print to the console using `print()`:
