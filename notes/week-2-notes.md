@@ -176,7 +176,7 @@ You can get the inverse of a boolean variable by appending the keyword `not` to 
 | Equal to                 | `==`   |
 | Not equal to             | `!=`   |
 
-Note: We don't use a single equal sign `=` because that's used for variable assignments already.
+Note: We don't use a single equal sign `=` for the equal to comparison because that's used for variable assignments already.
 
 ## Extra info I (Jason) thought might be helpful
 
