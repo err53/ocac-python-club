@@ -71,3 +71,5 @@
    ```
 
    Hint: look up `.split()` in the Python documentation
+
+6. What is the difference between a list and a tuple? Answer this in a sentence or two.
