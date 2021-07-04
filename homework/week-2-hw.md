@@ -36,7 +36,7 @@
    The examination will start from: 11 / 12 / 2014
    ```
 
-3. Write a Python function to calculate the sum of three given numbers, if the values are equal then return three times of their sum. (Eg, if the values are `1, 1, 1`, return `9`)
+3. Write a Python function to calculate and **return** the sum of three given numbers, if the values are equal then **return** three times of their sum. (Eg, if the values are `1, 1, 1`, return `9`)
 
    Code template:
 
