@@ -8,6 +8,6 @@ Homework is also on the Replit Team
 
 3. Write a Python program to compute the greatest common divisor (GCD) of two positive integers.
 
-4. Write a Python program to return a list of all substrings of a given string. A substring is a contiguous sequence of characters within a string. Eg, "ran" is a substring of "pomeranian". You might want to look up how do use slices in Python. Order does not matter.
+<!-- 4. Write a Python program to return a list of all substrings of a given string. A substring is a contiguous sequence of characters within a string. Eg, "ran" is a substring of "pomeranian". You might want to look up how do use slices in Python. Order does not matter. -->
 
-5. Write a Python function to find the maximum and minimum numbers from a sequence of numbers, **without using the built in functions**.
+4. Write a Python function to find the maximum and minimum numbers from a sequence of numbers, **without using the built in functions**.
