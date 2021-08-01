@@ -1,0 +1,4 @@
+Full Name, Profession, Outstanding Pay
+John Doe, Engineer, $10000
+Jane Smith, Software Developer, $4000
+Janet Wu, Graphic Designer, $5000
